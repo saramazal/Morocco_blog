@@ -84,6 +84,7 @@ html {
     padding-top: 1.11rem;
     font-size: 11rem;
     font-weight: 900px;
+       font-family: "Poppins", sans-serif;
   }
   
   @media only screen and (max-width: 750px) {
