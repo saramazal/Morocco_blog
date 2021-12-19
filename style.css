@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@200;300;400;600&display=swap");
+
 html {
     font-size: 18px;
   }
@@ -148,7 +150,8 @@ html {
   .journal .first-letter {
     float: left;
     padding-right: 1.4rem;
-    font-family: "Abril Fatface", serif;
+     font-family: "Poppins", sans-serif;
+    /*font-family: "Abril Fatface", serif;*/
     font-size: 7.44rem;
     color: #10b0d8;
     line-height: .87;
